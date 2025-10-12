@@ -1,0 +1,19 @@
+window {
+  background-color: rgba(40, 42, 54, 0.9);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button {
+  color: #f8f8f2;
+  background-color: #44475a;
+  border: none;
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+button:hover {
+  background-color: #6272a4;
+}

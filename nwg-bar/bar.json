@@ -1,0 +1,23 @@
+[
+  {
+    "label": " Lock",
+    "exec": "swaylock",
+    "class": "lock"
+  },
+  {
+    "label": "⏻ Power Off",
+    "exec": "systemctl poweroff",
+    "class": "poweroff"
+  },
+  {
+    "label": " Reboot",
+    "exec": "systemctl reboot",
+    "class": "reboot"
+  },
+  {
+    "label": " Suspend",
+    "exec": "systemctl suspend",
+    "class": "suspend"
+  }
+]
+
